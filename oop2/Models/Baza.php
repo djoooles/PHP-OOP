@@ -1,4 +1,5 @@
 <?php
+//greskom sam dodao ovaj domaci za prethodno predavanje
 
 class B0aza
 {
