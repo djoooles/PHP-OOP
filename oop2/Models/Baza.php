@@ -1,7 +1,7 @@
 <?php
 //greskom sam dodao ovaj domaci za prethodno predavanje
 
-class B0aza
+class Baza
 {
     const HOST = "localhost";
     const DB_USER = "root";
@@ -14,6 +14,6 @@ class B0aza
         $this->konekcija = mysqli_connect(self::HOST,self::DB_USER,self::DB_USER, self::DB_NAME);
     }
 }
-const IME = "Zoki";
+
 
 ?>
