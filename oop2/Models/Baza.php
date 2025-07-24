@@ -1,6 +1,6 @@
 <?php
 //greskom sam dodao ovaj domaci za prethodno predavanje
-
+//stavicu link za domaci #21 - OOP III u za predavanje #20 - OOP II
 class Baza
 {
     const HOST = "localhost";
